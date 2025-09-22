@@ -11,5 +11,11 @@ Durante o desafio, foi utilizada uma planilha no **Google Sheets** para organiza
 
 ---
 
-✍️ Desenvolvido como parte de um **teste técnico em entrevista**.
+## 📬 Contato
 
+- ✉️ [maryjacy2013@gmail.com](mailto:maryjacy2013@gmail.com)  
+- 🔗 [Meu LinkedIn](https://www.linkedin.com/in/maria-jaciara-477993149/)
+
+---
+
+✍️ Desenvolvido como parte de um **teste técnico em entrevista**.
